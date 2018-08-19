@@ -74,6 +74,7 @@ public class CollectionAPI {
 			System.out.println(caracteres);
 		}
 		
+		
 	}
 }
 
